@@ -1,0 +1,76 @@
+Application -> Go
+
+Tasks
+-> Learn Go!
+-> Learn Git!
+-> Learn GitHub!
+-> Learn VSCode!
+-> LEARN ALL THE THINGS
+
+-> Load & display image of map
+-> Zoom and drag map (low pri)
+    -> How do we represent the map+tiles?
+-> Lay new tiles onto map
+    -> Grid of tile locations
+    -> Tile definitions
+        -> Rotations
+        -> Cities
+        -> Track
+    -> Drag and drop behavior with gallery of tiles?
+    -> Click hex and menu gallery appears with tiles?
+-> Remove tiles
+-> Rotate tiles
+-> Upgrade tiles
+
+-> Stations
+-> Trains
+-> Running trains algorithm
+-> Dividend calculator
+-> New map menu
+-> Undo behavior
+-> Stock market values
+-> Bank
+-> Corporations
+    -> Trains
+    -> Stock
+        -> Issue/Redeem
+    -> Cash
+    -> Starting of
+-> Players
+    -> Stock
+        -> Buy/Sell
+    -> Cash
+    -> Hotseat/Active player
+-> Tiles cost & terrain
+-> Train cost
+-> Stock cost
+-> Dividends use context of Corporations, update stock market - preview?
+-> Tile placing rules
+-> Station placing rules & cost
+-> Private companies
+    -> Independents
+    -> Auction
+-> Turn order UI w/ current step
+-> Next corp running
+-> Bankruptcy
+-> Winning
+-> Phases
+    -> Train limit
+    -> Off board values
+    -> Phasing of trains & rusting
+    -> Available trains
+-> Stock rounds
+
+-> UI
+Corporations
+Players
+Bank
+Stock market
+Company value tracker
+Earnings reports
+History of recent activity
+
+
+-> Support for variability & different versions, maps
+-> Have internal representations of the maps as well as images
+-> Each tile in each map needs a representation of costs, edges/water
